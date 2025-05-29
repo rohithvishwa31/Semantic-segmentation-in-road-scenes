@@ -1,18 +1,19 @@
----
-
 # 🚦 Road Scene Semantic Segmentation using SAM, CAM, and DANet
 
 ## 📌 Project Overview
 
-This project focuses on **semantic segmentation of urban road scenes**, leveraging advanced deep learning architectures to accurately identify and label each pixel in an image into predefined semantic categories (e.g., road, building, car, pedestrian, sky, etc.). The models were trained and evaluated on the **Cityscapes dataset**, a benchmark dataset for pixel-level scene understanding in urban environments.
+This project focuses on **semantic segmentation of urban road scenes**, leveraging advanced deep learning architectures to accurately identify and label each pixel in an image into predefined semantic categories (e.g., road, building, car, pedestrian, sky, etc.).
 
-Our goal was to evaluate and compare the performance of three attention-based architectures:
+The models were trained and evaluated on the **Cityscapes dataset**, a benchmark dataset for pixel-level scene understanding in urban environments.
 
-* **SAM (Spatial Attention Module)**
-* **CAM (Channel Attention Module)**
-* **DANet (Dual Attention Network)**
+The primary objective was to evaluate and compare the performance of three attention-based architectures:
 
----
+- 🔵 **SAM (Spatial Attention Module)**
+- 🟣 **CAM (Channel Attention Module)**
+- 🟢 **DANet (Dual Attention Network)**
+
+Each of these models integrates attention mechanisms differently to enhance feature representation for improved segmentation performance in complex urban scenes.
+
 
 ## 🧠 Models Used
 
